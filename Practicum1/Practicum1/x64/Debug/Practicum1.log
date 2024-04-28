@@ -1,0 +1,3 @@
+﻿  Practicum1.cpp
+C:\Users\Oleh\source\repos\Practicum1\Practicum1\Practicum1.cpp(21,1): warning C4715: 'FibonacciTask2': not all control paths return a value
+  Practicum1.vcxproj -> C:\Users\Oleh\source\repos\Practicum1\x64\Debug\Practicum1.exe
